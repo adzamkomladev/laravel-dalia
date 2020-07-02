@@ -29,7 +29,7 @@
 </head>
 <body>
     <div id="app">
-        <nav class="uk-navbar-container" uk-navbar>
+        <nav class="uk-navbar-container uk-box-shadow-bottom uk-box-shadow-small" uk-navbar>
 
             <div class="uk-navbar-left">
 
